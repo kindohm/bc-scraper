@@ -6,12 +6,11 @@ import { extractItems } from "./extract";
 import { add } from "date-fns";
 import { getOlderThanToken } from "./getOlderThanToken";
 import { ensureDirectory } from "./util";
+import { homedir } from "os";
 
-const QUERY_LIMIT = 2;
-const DAYS_TO_PROCESS = 60;
-const COOKIES_PATH = "/Users/kindohm/Downloads/cookies.txt";
-
-const oldestDate = add(new Date(), { days: -DAYS_TO_PROCESS });
+// const QUERY_LIMIT = 2;
+// const DAYS_TO_PROCESS = 60;
+// const COOKIES_PATH = "/Users/kindohm/Downloads/cookies.txt";
 
 import yargs from "yargs";
 import path from "path";
@@ -19,18 +18,31 @@ import path from "path";
 const main = async () => {
   try {
     const argv = await yargs(process.argv.slice(2))
-      .usage("Usage: $0 --downloadDir [string] --extractDir [string]")
+      .usage(
+        "Usage: $0 --downloadDir [string] --extractDir [string] --days [number] --queryLimit [number] --cookies [string]",
+      )
       .options({
+        queryLimit: {
+          type: "number",
+          default: 5,
+        },
+        days: { type: "number", default: 30 },
         downloadDir: {
           type: "string",
-          default: path.join(__dirname, "files", "downloaded"),
+          default: path.join(homedir(), "bc-files", "downloaded"),
         },
         extractDir: {
           type: "string",
-          default: path.join(__dirname, "files", "extracted"),
+          default: path.join(homedir(), "bc-files", "extracted"),
+        },
+        cookies: {
+          type: "string",
+          default: path.join(homedir(), "Downloads", "cookies.txt"),
         },
       })
       .parse();
+
+    const oldestDate = add(new Date(), { days: -argv.days });
 
     console.log(
       "ensuring download directory",
@@ -41,12 +53,12 @@ const main = async () => {
       await ensureDirectory(argv.extractDir),
     );
 
-    const cookies = await readCookies(COOKIES_PATH);
+    const cookies = await readCookies(argv.cookies);
     const summary = await getCollectionSummary(cookies);
 
     const collectionItems = await getCollectionItems(
       summary.fan_id,
-      QUERY_LIMIT,
+      argv.queryLimit,
       cookies,
       getOlderThanToken(summary),
     );
