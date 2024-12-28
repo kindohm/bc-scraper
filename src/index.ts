@@ -49,6 +49,8 @@ const main = async () => {
 
     const oldestDate = add(new Date(), { days: -argv.days });
 
+    console.log("oldest date", oldestDate);
+
     console.log(
       "ensuring download directory",
       await ensureDirectory(argv.downloadDir),
