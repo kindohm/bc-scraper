@@ -1,0 +1,1554 @@
+{
+  "items": [
+    {
+      "fan_id": 388334,
+      "item_id": 751460899,
+      "item_type": "album",
+      "band_id": 63019704,
+      "added": "03 May 2024 14:14:51 GMT",
+      "updated": "03 May 2024 14:14:51 GMT",
+      "purchased": "03 May 2024 14:14:51 GMT",
+      "sale_item_id": 287906453,
+      "sale_item_type": "p",
+      "tralbum_id": 751460899,
+      "tralbum_type": "a",
+      "featured_track": 1860103603,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 6,
+      "url_hints": {
+        "subdomain": "aethersound",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "while-here-beneath-stars-mycelial-halo",
+        "item_type": "a"
+      },
+      "item_title": "While Here, Beneath Stars/Mycelial Halo",
+      "item_url": "https://aethersound.bandcamp.com/album/while-here-beneath-stars-mycelial-halo",
+      "item_art_id": 3991341786,
+      "item_art_url": "https://f4.bcbits.com/img/a3991341786_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a3991341786_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a3991341786_3.jpg",
+        "art_id": 3991341786
+      },
+      "band_name": "Jesse Whitney",
+      "band_url": "https://aethersound.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "While Here, Beneath Stars",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 354.522,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 3758659018,
+      "package_details": null,
+      "num_streamable_tracks": 2,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 751460899,
+      "album_title": "While Here, Beneath Stars/Mycelial Halo",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D751460899%26play%3D1&sig=9771d9c73f43f25af7ca182c69b615e2",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 2,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "USD",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1714745691:751460899:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 2750019347,
+      "item_type": "album",
+      "band_id": 281178177,
+      "added": "09 Apr 2024 19:55:12 GMT",
+      "updated": "07 May 2024 15:14:20 GMT",
+      "purchased": "09 Apr 2024 19:55:37 GMT",
+      "sale_item_id": 285028709,
+      "sale_item_type": "p",
+      "tralbum_id": 2750019347,
+      "tralbum_type": "a",
+      "featured_track": 1229432267,
+      "why": "I love all of Damirat's music, but this album is pure madness. so good.",
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 20,
+      "url_hints": {
+        "subdomain": "dingndents",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "docyopta",
+        "item_type": "a"
+      },
+      "item_title": "Docyopta",
+      "item_url": "https://dingndents.bandcamp.com/album/docyopta",
+      "item_art_id": 2979472540,
+      "item_art_url": "https://f4.bcbits.com/img/a2979472540_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a2979472540_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a2979472540_3.jpg",
+        "art_id": 2979472540
+      },
+      "band_name": "damirat",
+      "band_url": "https://dingndents.bandcamp.com",
+      "genre_id": null,
+      "featured_track_title": "Hecinkil tyep",
+      "featured_track_number": 2,
+      "featured_track_is_custom": true,
+      "featured_track_duration": 831.395,
+      "featured_track_url": "https://dingndents.bandcamp.com/album/docyopta?t=2",
+      "featured_track_encodings_id": 1111212068,
+      "package_details": null,
+      "num_streamable_tracks": 13,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 2750019347,
+      "album_title": "Docyopta",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D2750019347%26play%3D1&sig=12dce311b175c5a0e8764e390d658f00",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 8,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "USD",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712692537:2750019347:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 577780840,
+      "item_type": "album",
+      "band_id": 934406628,
+      "added": "09 Apr 2024 17:26:48 GMT",
+      "updated": "09 Apr 2024 17:26:48 GMT",
+      "purchased": "09 Apr 2024 17:26:47 GMT",
+      "sale_item_id": 2096489781,
+      "sale_item_type": "c",
+      "tralbum_id": 577780840,
+      "tralbum_type": "a",
+      "featured_track": 2140900051,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 38,
+      "url_hints": {
+        "subdomain": "naturalselectionlondon",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "ai-invasion",
+        "item_type": "a"
+      },
+      "item_title": "Ai Invasion",
+      "item_url": "https://naturalselectionlondon.bandcamp.com/album/ai-invasion",
+      "item_art_id": 713362778,
+      "item_art_url": "https://f4.bcbits.com/img/a0713362778_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a0713362778_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a0713362778_3.jpg",
+        "art_id": 713362778
+      },
+      "band_name": "Slave To Society",
+      "band_url": "https://naturalselectionlondon.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "Are Human Beings Conscious",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 266.444,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 2740591757,
+      "package_details": null,
+      "num_streamable_tracks": 4,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 577780840,
+      "album_title": "Ai Invasion",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D577780840%26play%3D1&sig=91ce9b7e6a74283f0290213d1f14389e",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 5,
+      "has_digital_download": null,
+      "merch_ids": [1435325111],
+      "merch_sold_out": false,
+      "currency": "GBP",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712683607:577780840:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 203709286,
+      "item_type": "album",
+      "band_id": 718216485,
+      "added": "09 Apr 2024 15:51:35 GMT",
+      "updated": "09 Apr 2024 15:51:35 GMT",
+      "purchased": "09 Apr 2024 15:51:35 GMT",
+      "sale_item_id": 285002657,
+      "sale_item_type": "p",
+      "tralbum_id": 203709286,
+      "tralbum_type": "a",
+      "featured_track": 3899758523,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 25,
+      "url_hints": {
+        "subdomain": "yplu",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "et-mulch-madness",
+        "item_type": "a"
+      },
+      "item_title": "ET Mulch Madness",
+      "item_url": "https://yplu.bandcamp.com/album/et-mulch-madness",
+      "item_art_id": 1659778920,
+      "item_art_url": "https://f4.bcbits.com/img/a1659778920_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a1659778920_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a1659778920_3.jpg",
+        "art_id": 1659778920
+      },
+      "band_name": "Trash Panda QC",
+      "band_url": "https://yplu.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "hdonkx49B",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 366.29,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 1703542960,
+      "package_details": null,
+      "num_streamable_tracks": 5,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 203709286,
+      "album_title": "ET Mulch Madness",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D203709286%26play%3D1&sig=ddd7572f52f859877be2065623b80b38",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": true,
+      "price": 6,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "USD",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712677895:203709286:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 2880789735,
+      "item_type": "album",
+      "band_id": 4111086951,
+      "added": "07 Apr 2024 15:58:26 GMT",
+      "updated": "07 Apr 2024 15:58:26 GMT",
+      "purchased": "07 Apr 2024 15:58:27 GMT",
+      "sale_item_id": 284787306,
+      "sale_item_type": "p",
+      "tralbum_id": 2880789735,
+      "tralbum_type": "a",
+      "featured_track": 399449231,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 157,
+      "url_hints": {
+        "subdomain": "tonylugo",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "derivations",
+        "item_type": "a"
+      },
+      "item_title": "Derivations",
+      "item_url": "https://tonylugo.bandcamp.com/album/derivations",
+      "item_art_id": 4028368072,
+      "item_art_url": "https://f4.bcbits.com/img/a4028368072_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a4028368072_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a4028368072_3.jpg",
+        "art_id": 4028368072
+      },
+      "band_name": "Tony Lugo",
+      "band_url": "https://tonylugo.bandcamp.com",
+      "genre_id": 11,
+      "featured_track_title": "Fox",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 133,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 2882560952,
+      "package_details": null,
+      "num_streamable_tracks": 7,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 2880789735,
+      "album_title": "Derivations",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D2880789735%26play%3D1&sig=33284583618ef774ec1c9a9a9954c28f",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 5,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "USD",
+      "label": "Superpang",
+      "label_id": 2955714910,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712505507:2880789735:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 2468309659,
+      "item_type": "album",
+      "band_id": 301439040,
+      "added": "06 Apr 2024 15:15:30 GMT",
+      "updated": "06 Apr 2024 15:15:30 GMT",
+      "purchased": "06 Apr 2024 15:15:30 GMT",
+      "sale_item_id": 284673019,
+      "sale_item_type": "p",
+      "tralbum_id": 2468309659,
+      "tralbum_type": "a",
+      "featured_track": 2500930938,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 15,
+      "url_hints": {
+        "subdomain": "ewajustka",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "dont-you-want-followers",
+        "item_type": "a"
+      },
+      "item_title": "don't you want followers?",
+      "item_url": "https://ewajustka.bandcamp.com/album/dont-you-want-followers",
+      "item_art_id": 3069517385,
+      "item_art_url": "https://f4.bcbits.com/img/a3069517385_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a3069517385_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a3069517385_3.jpg",
+        "art_id": 3069517385
+      },
+      "band_name": "Ewa Justka",
+      "band_url": "https://ewajustka.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "don't you want followers?",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 240.344,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 909154692,
+      "package_details": null,
+      "num_streamable_tracks": 6,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 2468309659,
+      "album_title": "don't you want followers?",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D2468309659%26play%3D1&sig=3d100e0987682b0aea0341768f938bdd",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 6.66,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "GBP",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712416530:2468309659:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 1740515609,
+      "item_type": "album",
+      "band_id": 2938141711,
+      "added": "06 Apr 2024 15:08:06 GMT",
+      "updated": "06 Apr 2024 15:08:06 GMT",
+      "purchased": "06 Apr 2024 15:08:06 GMT",
+      "sale_item_id": 284671618,
+      "sale_item_type": "p",
+      "tralbum_id": 1740515609,
+      "tralbum_type": "a",
+      "featured_track": 3493749343,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 153,
+      "url_hints": {
+        "subdomain": "indek",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "yope",
+        "item_type": "a"
+      },
+      "item_title": "Yope",
+      "item_url": "https://indek.bandcamp.com/album/yope",
+      "item_art_id": 2695733914,
+      "item_art_url": "https://f4.bcbits.com/img/a2695733914_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a2695733914_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a2695733914_3.jpg",
+        "art_id": 2695733914
+      },
+      "band_name": "Indek",
+      "band_url": "https://indek.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "Yope",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 397.06,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 2824731077,
+      "package_details": null,
+      "num_streamable_tracks": 5,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 1740515609,
+      "album_title": "Yope",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D1740515609%26play%3D1&sig=aee4ab1d63fa8771eb60399f8f7c1f19",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 5,
+      "has_digital_download": null,
+      "merch_ids": [748757431, 1574263983, 2413789633],
+      "merch_sold_out": false,
+      "currency": "USD",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712416086:1740515609:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 2750692288,
+      "item_type": "album",
+      "band_id": 945528431,
+      "added": "06 Apr 2024 13:57:08 GMT",
+      "updated": "06 Apr 2024 13:57:08 GMT",
+      "purchased": "06 Apr 2024 13:57:08 GMT",
+      "sale_item_id": 284663789,
+      "sale_item_type": "p",
+      "tralbum_id": 2750692288,
+      "tralbum_type": "a",
+      "featured_track": 3839709907,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 66,
+      "url_hints": {
+        "subdomain": "sovnrecords",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "quube",
+        "item_type": "a"
+      },
+      "item_title": "quube",
+      "item_url": "https://sovnrecords.bandcamp.com/album/quube",
+      "item_art_id": 1418359555,
+      "item_art_url": "https://f4.bcbits.com/img/a1418359555_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a1418359555_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a1418359555_3.jpg",
+        "art_id": 1418359555
+      },
+      "band_name": "William Fields",
+      "band_url": "https://sovnrecords.bandcamp.com",
+      "genre_id": 11,
+      "featured_track_title": "quube",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 508.291,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 3700564147,
+      "package_details": null,
+      "num_streamable_tracks": 4,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 2750692288,
+      "album_title": "quube",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D2750692288%26play%3D1&sig=a7ece0983d4d8976086036e8a07ee43c",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 3,
+      "has_digital_download": null,
+      "merch_ids": [1185655098],
+      "merch_sold_out": false,
+      "currency": "EUR",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712411828:2750692288:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 3908791181,
+      "item_type": "album",
+      "band_id": 63019704,
+      "added": "05 Apr 2024 15:19:05 GMT",
+      "updated": "05 Apr 2024 15:19:05 GMT",
+      "purchased": "05 Apr 2024 15:19:04 GMT",
+      "sale_item_id": 1226632729,
+      "sale_item_type": "c",
+      "tralbum_id": 3908791181,
+      "tralbum_type": "a",
+      "featured_track": 4128778529,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 10,
+      "url_hints": {
+        "subdomain": "aethersound",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "places-above-the-air-remixes",
+        "item_type": "a"
+      },
+      "item_title": "Places Above The Air Remixes",
+      "item_url": "https://aethersound.bandcamp.com/album/places-above-the-air-remixes",
+      "item_art_id": 264062371,
+      "item_art_url": "https://f4.bcbits.com/img/a0264062371_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a0264062371_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a0264062371_3.jpg",
+        "art_id": 264062371
+      },
+      "band_name": "Various Artists",
+      "band_url": "https://aethersound.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "What cannot be seen remains unknowable, (Kiisu's Infinite Abyss Mix)",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 360,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 1025406376,
+      "package_details": null,
+      "num_streamable_tracks": 10,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 3908791181,
+      "album_title": "Places Above The Air Remixes",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D3908791181%26play%3D1&sig=46fd0e48e6183fec2d27d62090023bf1",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 10,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "USD",
+      "label": null,
+      "label_id": null,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712330344:3908791181:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    },
+    {
+      "fan_id": 388334,
+      "item_id": 3674188758,
+      "item_type": "album",
+      "band_id": 3729428059,
+      "added": "02 Apr 2024 16:36:44 GMT",
+      "updated": "02 Apr 2024 16:36:44 GMT",
+      "purchased": "02 Apr 2024 16:36:44 GMT",
+      "sale_item_id": 283845394,
+      "sale_item_type": "p",
+      "tralbum_id": 3674188758,
+      "tralbum_type": "a",
+      "featured_track": 2066431029,
+      "why": null,
+      "hidden": null,
+      "index": null,
+      "also_collected_count": 153,
+      "url_hints": {
+        "subdomain": "end-user",
+        "custom_domain": null,
+        "custom_domain_verified": null,
+        "slug": "form-without-function",
+        "item_type": "a"
+      },
+      "item_title": "Form Without Function",
+      "item_url": "https://end-user.bandcamp.com/album/form-without-function",
+      "item_art_id": 1222369031,
+      "item_art_url": "https://f4.bcbits.com/img/a1222369031_9.jpg",
+      "item_art": {
+        "url": "https://f4.bcbits.com/img/a1222369031_9.jpg",
+        "thumb_url": "https://f4.bcbits.com/img/a1222369031_3.jpg",
+        "art_id": 1222369031
+      },
+      "band_name": "enduser",
+      "band_url": "https://end-user.bandcamp.com",
+      "genre_id": 10,
+      "featured_track_title": "fallen",
+      "featured_track_number": 1,
+      "featured_track_is_custom": false,
+      "featured_track_duration": 308.813,
+      "featured_track_url": null,
+      "featured_track_encodings_id": 3267662721,
+      "package_details": null,
+      "num_streamable_tracks": 12,
+      "is_purchasable": true,
+      "is_private": false,
+      "is_preorder": false,
+      "is_giftable": true,
+      "is_subscriber_only": false,
+      "is_subscription_item": false,
+      "service_name": null,
+      "service_url_fragment": null,
+      "gift_sender_name": null,
+      "gift_sender_note": null,
+      "gift_id": null,
+      "gift_recipient_name": null,
+      "album_id": 3674188758,
+      "album_title": "Form Without Function",
+      "listen_in_app_url": "https://bandcamp.com/redirect_to_app?fallback_url=https%3A%2F%2Fbandcamp.com%2Fthis_is_an_appstore_url%3Fapp%3Dfan_app&url=x-bandcamp%3A%2F%2Fshow_tralbum%3Ftralbum_type%3Da%26tralbum_id%3D3674188758%26play%3D1&sig=ee1b1c8c70fff2f0e6b6568a95b90ebb",
+      "band_location": null,
+      "band_image_id": null,
+      "release_count": null,
+      "message_count": null,
+      "is_set_price": false,
+      "price": 0,
+      "has_digital_download": null,
+      "merch_ids": null,
+      "merch_sold_out": null,
+      "currency": "USD",
+      "label": "Decay",
+      "label_id": 1475559741,
+      "require_email": null,
+      "item_art_ids": null,
+      "releases": null,
+      "discount": null,
+      "token": "1712075804:3674188758:a::",
+      "variant_id": null,
+      "merch_snapshot": null,
+      "featured_track_license_id": null,
+      "licensed_item": null,
+      "download_available": true
+    }
+  ],
+  "more_available": true,
+  "tracklists": {
+    "a203709286": [
+      {
+        "id": 3899758523,
+        "title": "hdonkx49B",
+        "artist": "Trash Panda QC",
+        "track_number": 1,
+        "duration": 366.29,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3899758523&ts=1735337315&t=2fb5e00715910efa5ae3750aa5a3e21fac3744ad"
+        }
+      },
+      {
+        "id": 1788628119,
+        "title": "hdonkx49A",
+        "artist": "Trash Panda QC",
+        "track_number": 2,
+        "duration": 579.937,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1788628119&ts=1735337315&t=d84c0da34041cf285c12c9fbaa38dc1b9fd86f12"
+        }
+      },
+      {
+        "id": 4019479699,
+        "title": "uncool stickers",
+        "artist": "Trash Panda QC",
+        "track_number": 3,
+        "duration": 287.367,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4019479699&ts=1735337315&t=090716de78870842843e1319cd84badba1d229c4"
+        }
+      },
+      {
+        "id": 3698547108,
+        "title": "5 above (sludge mix 12)",
+        "artist": "Trash Panda QC",
+        "track_number": 4,
+        "duration": 307.32,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3698547108&ts=1735337315&t=3a80bb3a36bbfae9ace1bfc758f910178a1b5f74"
+        }
+      },
+      {
+        "id": 591948443,
+        "title": "orange science",
+        "artist": "Trash Panda QC",
+        "track_number": 5,
+        "duration": 311.024,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=591948443&ts=1735337315&t=07ea910691eff937cf509068c75e5aa2f5caf43e"
+        }
+      }
+    ],
+    "a577780840": [
+      {
+        "id": 2140900051,
+        "title": "Are Human Beings Conscious",
+        "artist": "Slave To Society",
+        "track_number": 1,
+        "duration": 266.444,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2140900051&ts=1735337315&t=fbaac3a22b4d53d09ad78134f1efdbec40018eb9"
+        }
+      },
+      {
+        "id": 2154541970,
+        "title": "Ai Invasion",
+        "artist": "Slave To Society",
+        "track_number": 2,
+        "duration": 259.322,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2154541970&ts=1735337315&t=9793bc1f77558444979b835996454e07b6296e12"
+        }
+      },
+      {
+        "id": 1092709369,
+        "title": "Robot Dementia",
+        "artist": "Slave To Society",
+        "track_number": 3,
+        "duration": 277.52,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1092709369&ts=1735337315&t=9d3a786f127062513e6046840eab6c4281d179cc"
+        }
+      },
+      {
+        "id": 870600229,
+        "title": "Robot Dementia (Somatic Responses Remix)",
+        "artist": "Slave To Society",
+        "track_number": 4,
+        "duration": 286.032,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=870600229&ts=1735337315&t=0e223dd8e86caff0d95995adc454ce097b2d2c6d"
+        }
+      }
+    ],
+    "a751460899": [
+      {
+        "id": 1860103603,
+        "title": "While Here, Beneath Stars",
+        "artist": "Jesse Whitney",
+        "track_number": 1,
+        "duration": 354.522,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1860103603&ts=1735337315&t=3e4959eb1c5159bdd1c55cc17b228e03f6e21509"
+        }
+      },
+      {
+        "id": 169144567,
+        "title": "Mycelial Halo",
+        "artist": "Jesse Whitney",
+        "track_number": 2,
+        "duration": 237.474,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=169144567&ts=1735337315&t=643361508cb659f56c7d2e8559602033882c7b78"
+        }
+      }
+    ],
+    "a1740515609": [
+      {
+        "id": 3493749343,
+        "title": "Yope",
+        "artist": "Indek",
+        "track_number": 1,
+        "duration": 397.06,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3493749343&ts=1735337315&t=20eaf641bac338d7d86cfba831d825b4da9bb913"
+        }
+      },
+      {
+        "id": 1908173431,
+        "title": "Acyn",
+        "artist": "Indek",
+        "track_number": 2,
+        "duration": 305.104,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1908173431&ts=1735337315&t=a3a644a436101f030a67025f618532cd720a6b26"
+        }
+      },
+      {
+        "id": 3849791647,
+        "title": "Sund",
+        "artist": "Indek",
+        "track_number": 3,
+        "duration": 190.217,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3849791647&ts=1735337315&t=a13c071aea0779b43806b55a5e4acc12dd78d580"
+        }
+      },
+      {
+        "id": 3972133175,
+        "title": "Fink",
+        "artist": "Indek",
+        "track_number": 4,
+        "duration": 334.841,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3972133175&ts=1735337315&t=1c84698305d6c1d3366790f1d3ad7554984edacc"
+        }
+      },
+      {
+        "id": 407968394,
+        "title": "Ixss",
+        "artist": "Indek",
+        "track_number": 5,
+        "duration": 343.209,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=407968394&ts=1735337315&t=72081e2752ded0b61027858e28ce1875ea57988f"
+        }
+      }
+    ],
+    "a2468309659": [
+      {
+        "id": 2500930938,
+        "title": "don't you want followers?",
+        "artist": "Ewa Justka",
+        "track_number": 1,
+        "duration": 240.344,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2500930938&ts=1735337315&t=be6dadb34d22b7b8e0eae0c994277888101616d3"
+        }
+      },
+      {
+        "id": 1027613635,
+        "title": "evolution of a knob-head",
+        "artist": "Ewa Justka",
+        "track_number": 2,
+        "duration": 295.987,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1027613635&ts=1735337315&t=c964dccce551e58b421915742ba8fcb2ab4fb371"
+        }
+      },
+      {
+        "id": 3704641528,
+        "title": "for the gatekeepers",
+        "artist": "Ewa Justka",
+        "track_number": 3,
+        "duration": 441.75,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3704641528&ts=1735337315&t=fe24a1b0fd3f2611c819257f4997cf00286bf7e4"
+        }
+      },
+      {
+        "id": 585352867,
+        "title": "16 different minds",
+        "artist": "Ewa Justka",
+        "track_number": 4,
+        "duration": 332.25,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=585352867&ts=1735337315&t=9629cad4f3909a38c3382de72ea6acea7091f1d2"
+        }
+      },
+      {
+        "id": 3406328727,
+        "title": "against a wall",
+        "artist": "Ewa Justka",
+        "track_number": 5,
+        "duration": 194.062,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3406328727&ts=1735337315&t=cfc7a2898b52976111bb27059ffd29063579aee3"
+        }
+      },
+      {
+        "id": 3307823432,
+        "title": "obedient sheep",
+        "artist": "Ewa Justka",
+        "track_number": 6,
+        "duration": 320.5,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3307823432&ts=1735337315&t=bad676576eef467afb04a3d2d03243f533d0767a"
+        }
+      }
+    ],
+    "a2750019347": [
+      {
+        "id": 1532184383,
+        "title": "Docyopta",
+        "artist": "damirat",
+        "track_number": 1,
+        "duration": 297.2,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1532184383&ts=1735337315&t=b24e4dceea25314b26ada79034b6132baeed38bd"
+        }
+      },
+      {
+        "id": 1229432267,
+        "title": "Hecinkil tyep",
+        "artist": "damirat",
+        "track_number": 2,
+        "duration": 831.395,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1229432267&ts=1735337315&t=7cc0f77d790e74811cd6345e78fe14aedc83e857"
+        }
+      },
+      {
+        "id": 1450480610,
+        "title": "6 paimetachi",
+        "artist": "damirat",
+        "track_number": 3,
+        "duration": 338.785,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1450480610&ts=1735337315&t=654c4693ba93e85e5f86f2c6271f4847ea968f20"
+        }
+      },
+      {
+        "id": 1591224289,
+        "title": "Deliope (pt.ii).",
+        "artist": "damirat",
+        "track_number": 4,
+        "duration": 452.038,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1591224289&ts=1735337315&t=ea32157ac9ecdf18f0cf22f1170c089f8355b5a7"
+        }
+      },
+      {
+        "id": 2075298565,
+        "title": "2.1 headmorf",
+        "artist": "damirat",
+        "track_number": 5,
+        "duration": 252.649,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2075298565&ts=1735337315&t=c6fb691c88a2732bce3e1b273a654170fa0ee9dd"
+        }
+      },
+      {
+        "id": 2758990756,
+        "title": "Ploid Coculav1",
+        "artist": "damirat",
+        "track_number": 6,
+        "duration": 839.487,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2758990756&ts=1735337315&t=16f3e20df66876a5ccc83503da8f2f469173713b"
+        }
+      },
+      {
+        "id": 920871391,
+        "title": "Volhkotoma C",
+        "artist": "damirat",
+        "track_number": 7,
+        "duration": 567.563,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=920871391&ts=1735337315&t=41806971ee78e76dac611c343ff96d735168217f"
+        }
+      },
+      {
+        "id": 452406714,
+        "title": "Qyusmert",
+        "artist": "damirat",
+        "track_number": 8,
+        "duration": 328.75,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=452406714&ts=1735337315&t=676e5cb4dad9016e5dcc711f84ea9e147a206a37"
+        }
+      },
+      {
+        "id": 3787443550,
+        "title": "Fokalocito ins",
+        "artist": "damirat",
+        "track_number": 9,
+        "duration": 267,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3787443550&ts=1735337315&t=c7b63d4c390817099b40fb06ff9d3937c93efa5b"
+        }
+      },
+      {
+        "id": 2558222321,
+        "title": "Xypo 2n2",
+        "artist": "damirat",
+        "track_number": 10,
+        "duration": 428.062,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2558222321&ts=1735337315&t=08be82b03a4c339ae7b2ad9e93668a251d4d5d93"
+        }
+      },
+      {
+        "id": 1705017697,
+        "title": "Citogascal",
+        "artist": "damirat",
+        "track_number": 11,
+        "duration": 542.272,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1705017697&ts=1735337315&t=f7db9c6050023b55475511c3c3f3a93a71672871"
+        }
+      },
+      {
+        "id": 2344916802,
+        "title": "Dorifomee",
+        "artist": "damirat",
+        "track_number": 12,
+        "duration": 416.758,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2344916802&ts=1735337315&t=b62281e7023f4ed76f21028dd4c19184ce0a83ad"
+        }
+      },
+      {
+        "id": 653238094,
+        "title": "Lotag Oculasi",
+        "artist": "damirat",
+        "track_number": 13,
+        "duration": 493.618,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=653238094&ts=1735337315&t=1447041ec8b457c427f535de65c30f3265ddba25"
+        }
+      }
+    ],
+    "a2750692288": [
+      {
+        "id": 3839709907,
+        "title": "quube",
+        "artist": "William Fields",
+        "track_number": 1,
+        "duration": 508.291,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3839709907&ts=1735337315&t=7115d543432e5aa57e99f878e10b59cc576d68c7"
+        }
+      },
+      {
+        "id": 837723621,
+        "title": "leku",
+        "artist": "William Fields",
+        "track_number": 2,
+        "duration": 403.489,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=837723621&ts=1735337315&t=74644c52d16a44c65a21370b64d8a8aebc96214f"
+        }
+      },
+      {
+        "id": 4043390271,
+        "title": "bamer9",
+        "artist": "William Fields",
+        "track_number": 3,
+        "duration": 426.509,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4043390271&ts=1735337315&t=24e762434f3d15bc5d62361e3d9dfe2f33843a85"
+        }
+      },
+      {
+        "id": 280867073,
+        "title": "equu",
+        "artist": "William Fields",
+        "track_number": 4,
+        "duration": 277.492,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=280867073&ts=1735337315&t=3097bed4a6d0469188e8b7482fc2cee62aede77a"
+        }
+      }
+    ],
+    "a2880789735": [
+      {
+        "id": 399449231,
+        "title": "Fox",
+        "artist": "Tony Lugo",
+        "track_number": 1,
+        "duration": 133,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=399449231&ts=1735337315&t=96713f727b0bb247f12af012a52e4b6ac8e34115"
+        }
+      },
+      {
+        "id": 1436526347,
+        "title": "Ape",
+        "artist": "Tony Lugo",
+        "track_number": 2,
+        "duration": 131,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1436526347&ts=1735337315&t=1e48d68ce57132e51a34f4c80d7455995935f022"
+        }
+      },
+      {
+        "id": 769417420,
+        "title": "Sheep",
+        "artist": "Tony Lugo",
+        "track_number": 3,
+        "duration": 86,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=769417420&ts=1735337315&t=5e5d6f84f59f62f2f194ed62686f35d2bac0589e"
+        }
+      },
+      {
+        "id": 2965708701,
+        "title": "Hog",
+        "artist": "Tony Lugo",
+        "track_number": 4,
+        "duration": 237.95,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2965708701&ts=1735337315&t=cf541b74b6089ff685ee70adb2242c2d687ce6ca"
+        }
+      },
+      {
+        "id": 1271703007,
+        "title": "Dog",
+        "artist": "Tony Lugo",
+        "track_number": 5,
+        "duration": 210.5,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1271703007&ts=1735337315&t=3d01967b5c5200deecd5cd5affab5c4a90579db0"
+        }
+      },
+      {
+        "id": 2305889919,
+        "title": "Lion",
+        "artist": "Tony Lugo",
+        "track_number": 6,
+        "duration": 76,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2305889919&ts=1735337315&t=85bbea9cff649bdb31ed8fa04047da738ed04638"
+        }
+      },
+      {
+        "id": 4222644072,
+        "title": "Oxen",
+        "artist": "Tony Lugo",
+        "track_number": 7,
+        "duration": 406.507,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4222644072&ts=1735337315&t=d23804d07061874eb0d14b335e809f68e33960a5"
+        }
+      }
+    ],
+    "a3674188758": [
+      {
+        "id": 2066431029,
+        "title": "fallen",
+        "artist": "enduser",
+        "track_number": 1,
+        "duration": 308.813,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2066431029&ts=1735337315&t=562097b589630daf3591c02d4f59ae24b2197782"
+        }
+      },
+      {
+        "id": 2056460831,
+        "title": "hidden wrath (with dj hidden & speaker wrath)",
+        "artist": "enduser",
+        "track_number": 2,
+        "duration": 398.987,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2056460831&ts=1735337315&t=0c5c1e914107c2030c49150af5f3d7f9cd07636b"
+        }
+      },
+      {
+        "id": 772148447,
+        "title": "bare knuckles",
+        "artist": "enduser",
+        "track_number": 3,
+        "duration": 218.587,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=772148447&ts=1735337315&t=3eb2aa4dbb37e225e4244815a7d403a33f042cfd"
+        }
+      },
+      {
+        "id": 1411944022,
+        "title": "wires and pins",
+        "artist": "enduser",
+        "track_number": 4,
+        "duration": 278,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1411944022&ts=1735337315&t=d1d7aa46a2ac279432dd8b57a04ddb36f30e9bee"
+        }
+      },
+      {
+        "id": 3776050568,
+        "title": "final judgment",
+        "artist": "enduser",
+        "track_number": 5,
+        "duration": 404.213,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3776050568&ts=1735337315&t=441b9cb999601a0d5b6b0c37082ff3b4143f9309"
+        }
+      },
+      {
+        "id": 4059654716,
+        "title": "keep telling",
+        "artist": "enduser",
+        "track_number": 6,
+        "duration": 398.36,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4059654716&ts=1735337315&t=bda6bb8690b1b87a77e4548268c63d2012e5c5d0"
+        }
+      },
+      {
+        "id": 2861550069,
+        "title": "the choke (remix)",
+        "artist": "enduser",
+        "track_number": 7,
+        "duration": 434,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2861550069&ts=1735337315&t=79c6abae390e269fc009d91467cbb94dfe32a84d"
+        }
+      },
+      {
+        "id": 3948992086,
+        "title": "the plan (with submerged)",
+        "artist": "enduser",
+        "track_number": 8,
+        "duration": 273.387,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3948992086&ts=1735337315&t=333e5018988a2574662b72dde842bb3dff4771b1"
+        }
+      },
+      {
+        "id": 3247280759,
+        "title": "faceless",
+        "artist": "enduser",
+        "track_number": 9,
+        "duration": 190.253,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3247280759&ts=1735337315&t=6f24f5ff367a3016575e75dd54532904e3e5ecbf"
+        }
+      },
+      {
+        "id": 1711444197,
+        "title": "on point",
+        "artist": "enduser",
+        "track_number": 10,
+        "duration": 173.12,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1711444197&ts=1735337315&t=93905b0d88f643f842ec8fa24c2fde841f67aaea"
+        }
+      },
+      {
+        "id": 3514454467,
+        "title": "one two (with somatic responses)",
+        "artist": "enduser",
+        "track_number": 11,
+        "duration": 327.253,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=3514454467&ts=1735337315&t=f4cf9ddab8fddf7fef64d9a43936f700c89d919e"
+        }
+      },
+      {
+        "id": 4266853182,
+        "title": "by a thread",
+        "artist": "enduser",
+        "track_number": 12,
+        "duration": 229.587,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4266853182&ts=1735337315&t=9f8b3f8b43a9bfc08309e650e0a694eeab7e826a"
+        }
+      }
+    ],
+    "a3908791181": [
+      {
+        "id": 4128778529,
+        "title": "What cannot be seen remains unknowable, (Kiisu's Infinite Abyss Mix)",
+        "artist": "Various Artists",
+        "track_number": 1,
+        "duration": 360,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4128778529&ts=1735337315&t=f739698b724c3cbffc7a81b5742ad5f9f0b7eba0"
+        }
+      },
+      {
+        "id": 2495259913,
+        "title": "That Which Was Shut Has Been Opened. (MKR's sesame rework)",
+        "artist": "Various Artists",
+        "track_number": 2,
+        "duration": 257.143,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2495259913&ts=1735337315&t=df5e7b071d1037f11034c628a323933e69aa72a3"
+        }
+      },
+      {
+        "id": 1780624914,
+        "title": "Dark Forest (Evan Beaumont Remix)",
+        "artist": "Various Artists",
+        "track_number": 3,
+        "duration": 268.5,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1780624914&ts=1735337315&t=7e2907aaa7303ecabdf7ea0a19c2e73eae8b6c0c"
+        }
+      },
+      {
+        "id": 2685579896,
+        "title": "Clip Show (Eyedubs remix)",
+        "artist": "Various Artists",
+        "track_number": 4,
+        "duration": 245.256,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2685579896&ts=1735337315&t=e25688fbeccdd6de2d97afd18793091ca8da580a"
+        }
+      },
+      {
+        "id": 1654478393,
+        "title": "places above the air kitten candy remix",
+        "artist": "Various Artists",
+        "track_number": 5,
+        "duration": 634.286,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1654478393&ts=1735337315&t=6a26f6e53e82fa76155f3c62091b92946201dc9c"
+        }
+      },
+      {
+        "id": 217845699,
+        "title": "SPACE ABOVE THE AIR - 4FT MIX",
+        "artist": "Various Artists",
+        "track_number": 6,
+        "duration": 270.857,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=217845699&ts=1735337315&t=e8fd2b1b31d4104d879c53312866c88e6896fc86"
+        }
+      },
+      {
+        "id": 2645102406,
+        "title": "yet I see with the eye of the sun as if it came to rest on my forehead, (Marco Nicholas remix)",
+        "artist": "Various Artists",
+        "track_number": 7,
+        "duration": 277.333,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=2645102406&ts=1735337315&t=0edaba84856f96f8915e22ffc37ac72b665d2087"
+        }
+      },
+      {
+        "id": 701183534,
+        "title": "Darker Corners - Nils-One-Dub Mix",
+        "artist": "Various Artists",
+        "track_number": 8,
+        "duration": 260.143,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=701183534&ts=1735337315&t=4f5c3c8aaae6cf18e0282d7cf724ad3e1494177e"
+        }
+      },
+      {
+        "id": 1206163875,
+        "title": "POA Remix by Ryan Miller",
+        "artist": "Various Artists",
+        "track_number": 9,
+        "duration": 272.705,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=1206163875&ts=1735337315&t=eb834c9a53e083e7e7583125b00b455661bfd85e"
+        }
+      },
+      {
+        "id": 4182998983,
+        "title": "That which was open has been shut. - Kindohm apoapsis remix",
+        "artist": "Various Artists",
+        "track_number": 10,
+        "duration": 306.228,
+        "file": {
+          "mp3-v0": "https://bandcamp.com/stream_redirect?enc=mp3-v0&track_id=4182998983&ts=1735337315&t=f1fdbabec518164af59e086f68b2ece1eab84219"
+        }
+      }
+    ]
+  },
+  "redownload_urls": {
+    "p283845394": "https://bandcamp.com/download?from=collection&payment_id=456288875&sig=587022075e4788a5b17d7318b8497070&sitem_id=283845394",
+    "p284663789": "https://bandcamp.com/download?from=collection&payment_id=1133294707&sig=ac7145ea2bf4807c5e9121b19a57d6d7&sitem_id=284663789",
+    "p284671618": "https://bandcamp.com/download?from=collection&payment_id=3465097883&sig=cc99cab8b5c54744e68539079cb29dbe&sitem_id=284671618",
+    "p284673019": "https://bandcamp.com/download?from=collection&payment_id=2943519264&sig=a89397fafe7b0ca1af5750ee853e6c74&sitem_id=284673019",
+    "p284787306": "https://bandcamp.com/download?from=collection&payment_id=1669625669&sig=7bdb32a4a95c7ea2c30cd0308ff9a670&sitem_id=284787306",
+    "p285002657": "https://bandcamp.com/download?from=collection&payment_id=2612782511&sig=0223774b64f20eec09876b67856b8857&sitem_id=285002657",
+    "p285028709": "https://bandcamp.com/download?from=collection&payment_id=236577504&sig=2c6486e600b702ddf82a447cac771a34&sitem_id=285028709",
+    "p287906453": "https://bandcamp.com/download?from=collection&payment_id=2257265189&sig=89efc2f105d85a3cb8924bc43f86fe80&sitem_id=287906453",
+    "c1226632729": "https://bandcamp.com/download?from=collection&payment_id=90750772&sig=135d7982419680d7feb17659083cb509",
+    "c2096489781": "https://bandcamp.com/download?from=collection&payment_id=727668094&sig=68c893c7131410ba306d50ebb3b6db84"
+  },
+  "item_lookup": {
+    "203709286": { "item_type": "a", "purchased": true },
+    "577780840": { "item_type": "a", "purchased": true },
+    "751460899": { "item_type": "a", "purchased": true },
+    "1740515609": { "item_type": "a", "purchased": true },
+    "2468309659": { "item_type": "a", "purchased": true },
+    "2750019347": { "item_type": "a", "purchased": true },
+    "2750692288": { "item_type": "a", "purchased": true },
+    "2880789735": { "item_type": "a", "purchased": true },
+    "3674188758": { "item_type": "a", "purchased": true },
+    "3908791181": { "item_type": "a", "purchased": true }
+  },
+  "last_token": "1712075804:3674188758:a::",
+  "purchase_infos": {},
+  "collectors": {}
+}
