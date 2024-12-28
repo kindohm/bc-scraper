@@ -14,7 +14,6 @@ const downloadFile = (
   log: (msg: string) => void,
 ) => {
   return new Promise((res, rej) => {
-    console.log("downloading", downloadFilePath);
     const proc = spawn("curl", [
       "-o",
       downloadFilePath,
@@ -37,6 +36,7 @@ export const downloadItems = async (
   items: CollectionItems,
   destinationDirectory: string,
   cookies: string,
+  redownload: boolean,
 ) => {
   console.log("downloading", items.items.length, "items");
   for (let i = 0; i < items.items.length; i++) {
@@ -76,11 +76,10 @@ export const downloadItems = async (
 
     const exists = await pathExists(downloadFilePath);
 
-    if (!exists) {
+    if (!exists || redownload) {
       await downloadFile(url, downloadFilePath, cookies, process.stdout.write);
     } else {
       console.log("already downloaded");
     }
-    // await downloadFile(url, `${destinationDirectory}/${filename}`, cookies);
   }
 };

@@ -18,10 +18,15 @@ import path from "path";
 const main = async () => {
   try {
     const argv = await yargs(process.argv.slice(2))
-      .usage(
-        "Usage: $0 --downloadDir [string] --extractDir [string] --days [number] --queryLimit [number] --cookies [string]",
-      )
       .options({
+        redownload: {
+          type: "boolean",
+          default: false,
+        },
+        reextract: {
+          type: "boolean",
+          default: false,
+        },
         queryLimit: {
           type: "number",
           default: 5,
@@ -73,10 +78,15 @@ const main = async () => {
     console.log("recent count", filteredCollectionItems.items.length);
 
     console.log("downloading music...");
-    await downloadItems(filteredCollectionItems, argv.downloadDir, cookies);
+    await downloadItems(
+      filteredCollectionItems,
+      argv.downloadDir,
+      cookies,
+      argv.redownload,
+    );
 
     console.log("extracting archives...");
-    await extractItems(argv.downloadDir, argv.extractDir);
+    await extractItems(argv.downloadDir, argv.extractDir, argv.reextract);
 
     console.log("done");
     return;

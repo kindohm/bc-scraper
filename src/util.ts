@@ -41,7 +41,10 @@ export const ensureDirectory = (directory: string): Promise<string> => {
 };
 
 export const sanitizeString = (input: string) => {
-  let clean = input.replace(/[^0-9a-z-A-Z]/g, "-").replace(/--/g, "_");
+  let clean = input
+    .replace(/[^0-9a-z-A-Z]/g, "-")
+    .replace(/---/g, "-")
+    .replace(/--/g, "-");
 
   if (clean.endsWith("-")) {
     clean = clean.substring(0, clean.length - 2);
