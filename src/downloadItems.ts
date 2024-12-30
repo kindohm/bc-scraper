@@ -1,7 +1,6 @@
 import axios from "axios";
 import { JSDOM } from "jsdom";
 import { CollectionItems } from "./getCollectionItems";
-// import { downloadFile } from "./downloadFile";
 import { existsSync } from "fs";
 import { exec, spawn } from "child_process";
 import path from "path";
