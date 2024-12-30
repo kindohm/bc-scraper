@@ -22,6 +22,9 @@ yarn
 yarn dev
 ```
 
+The app begins with some (possibly) sensible defaults.
+View the Usage section below for arguments.
+
 ## Build and run
 
 ```
