@@ -8,10 +8,6 @@ import { getOlderThanToken } from "./getOlderThanToken";
 import { ensureDirectory } from "./util";
 import { homedir } from "os";
 
-// const QUERY_LIMIT = 2;
-// const DAYS_TO_PROCESS = 60;
-// const COOKIES_PATH = "/Users/kindohm/Downloads/cookies.txt";
-
 import yargs from "yargs";
 import path from "path";
 
