@@ -4,7 +4,7 @@ Inspired by
 https://github.com/easlice/bandcamp-downloader.
 
 I wrote my own scraper so that I can run it on
-(Termux)[https://termux.dev/en/] on Android without the
+[Termux](https://termux.dev/en/) on Android without the
 `curl-impersonate` dependency.
 
 ## Prerequisite: download cookies
