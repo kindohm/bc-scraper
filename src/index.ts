@@ -25,12 +25,12 @@ const main = async () => {
         },
         queryLimit: {
           type: "number",
-          default: 5,
+          default: 100,
         },
         days: { type: "number", default: 30 },
         downloadDir: {
           type: "string",
-          default: path.join(homedir(), "bc-files", "downloaded"),
+          default: path.join(homedir(), "Downloads", "bc-downloaded"),
         },
         extractDir: {
           type: "string",
@@ -49,11 +49,11 @@ const main = async () => {
 
     console.log(
       "ensuring download directory",
-      await ensureDirectory(argv.downloadDir),
+      await ensureDirectory(argv.downloadDir)
     );
     console.log(
       "ensuring extraction directory",
-      await ensureDirectory(argv.extractDir),
+      await ensureDirectory(argv.extractDir)
     );
 
     const cookies = await readCookies(argv.cookies);
@@ -63,7 +63,7 @@ const main = async () => {
       summary.fan_id,
       argv.queryLimit,
       cookies,
-      getOlderThanToken(summary),
+      getOlderThanToken(summary)
     );
 
     const recentItems = collectionItems.items.filter((item) => {
@@ -80,7 +80,7 @@ const main = async () => {
       filteredCollectionItems,
       argv.downloadDir,
       cookies,
-      argv.redownload,
+      argv.redownload
     );
 
     console.log("extracting archives...");
