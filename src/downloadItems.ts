@@ -1,8 +1,7 @@
 import axios from "axios";
 import { JSDOM } from "jsdom";
 import { CollectionItems } from "./getCollectionItems";
-import { existsSync } from "fs";
-import { exec, spawn } from "child_process";
+import { spawn } from "child_process";
 import path from "path";
 import { pathExists, sanitizeString } from "./util";
 
@@ -10,7 +9,7 @@ const downloadFile = (
   url: string,
   downloadFilePath: string,
   cookies: string,
-  log: (msg: string) => void,
+  log: (msg: string) => void
 ) => {
   return new Promise((res, rej) => {
     const proc = spawn("curl", [
@@ -35,7 +34,7 @@ export const downloadItems = async (
   items: CollectionItems,
   destinationDirectory: string,
   cookies: string,
-  redownload: boolean,
+  redownload: boolean
 ) => {
   console.log("downloading", items.items.length, "items");
   for (let i = 0; i < items.items.length; i++) {
@@ -70,7 +69,7 @@ export const downloadItems = async (
 
     console.log(
       `downloading ${i + 1} of ${items.items.length} (${(((i + 1) / items.items.length) * 100).toFixed(0)}%)`,
-      filename,
+      filename
     );
 
     const exists = await pathExists(downloadFilePath);

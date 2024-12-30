@@ -22,7 +22,7 @@ export const getCollectionItems = async (
   fanId: number,
   limit: number,
   cookies: string,
-  olderThanToken: string,
+  olderThanToken: string
 ): Promise<CollectionItems> => {
   const apiResponse = await axios.post(
     "https://bandcamp.com/api/fancollection/1/collection_items",
@@ -36,13 +36,13 @@ export const getCollectionItems = async (
         Cookie: cookies,
         Accept: "application/json",
       },
-    },
+    }
   );
 
   const newItems = apiResponse.data.items.map((item: CollectionItem) => {
     return {
       ...item,
-      realDate: new Date(item.purchased), // parse(dateWithoutTz, "dd MMM yyyy hh:mm:ss", new Date()),
+      realDate: new Date(item.purchased),
     };
   });
 

@@ -6,7 +6,6 @@ import { spawn } from "child_process";
 
 const readDownloadDir = (downloadDirectory: string): Promise<string[]> => {
   return new Promise((res, rej) => {
-    // console.log(downloadDirectory);
     fs.readdir(downloadDirectory, (err, data) => {
       if (err) {
         return rej(err);
@@ -38,7 +37,7 @@ const extractFile = (archivePath: string, destinationDirectory: string) => {
 export const extractItems = async (
   downloadDirectory: string,
   destinationDirectory: string,
-  reextract: boolean,
+  reextract: boolean
 ) => {
   const zips = await readDownloadDir(downloadDirectory);
 
@@ -48,7 +47,7 @@ export const extractItems = async (
     const filePath = `${downloadDirectory}/${filename}`;
     const extractionDirectory = join(
       destinationDirectory,
-      filename.replace(".zip", ""),
+      filename.replace(".zip", "")
     );
 
     console.log("extracting", filename);

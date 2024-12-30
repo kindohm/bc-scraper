@@ -26,10 +26,9 @@ export const readCookies = (cookiesPath: string): Promise<string> => {
           return acc;
         }
 
-        return `${acc} ${key}=${val};`; // { ...acc, [key]: val };
+        return `${acc} ${key}=${val};`;
       }, "");
       res(cookies);
-      // const cookiesString = res(cookies);
     });
   });
 };

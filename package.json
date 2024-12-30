@@ -8,20 +8,16 @@
     "build": "yarn tsc"
   },
   "dependencies": {
-    "@types/decompress": "^4.2.7",
-    "@types/yargs": "^17.0.33",
     "axios": "^1.7.9",
     "date-fns": "^4.1.0",
-    "html-dom-parser": "^5.0.13",
     "jsdom": "^25.0.1",
-    "node-html-parser": "^6.1.13",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
+    "@types/yargs": "^17.0.33",
     "@types/axios": "^0.14.4",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^22.10.2",
-    "@types/unzipper": "^0.10.10",
     "prettier": "^3.4.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
