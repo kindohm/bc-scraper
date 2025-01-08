@@ -56,7 +56,19 @@ export const downloadItems = async (
     }
     const data = JSON.parse(dataBlob);
     const format = "mp3-320";
-    const url = data.download_items[0].downloads[format].url;
+
+    if (!data.download_items[0].downloads) {
+      console.warn("no downloads", item.band_name, item.item_title);
+      continue;
+    }
+
+    const url = data.download_items[0]?.downloads[format]?.url;
+
+    if (!url) {
+      console.warn("no mp3-320 format", item.band_name, item.item_title);
+      continue;
+    }
+
     const artist = data.download_items[0].artist;
     const isTrack = data.download_items[0].item_type === "t";
     const slug = data.download_items[0].url_hints.slug;
