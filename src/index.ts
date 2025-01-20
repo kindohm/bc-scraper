@@ -45,6 +45,7 @@ const main = async () => {
 
     const oldestDate = add(new Date(), { days: -argv.days });
 
+    console.log("args", argv);
     console.log("oldest date", oldestDate);
 
     console.log(

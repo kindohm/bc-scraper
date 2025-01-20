@@ -24,6 +24,7 @@ export const getCollectionItems = async (
   cookies: string,
   olderThanToken: string
 ): Promise<CollectionItems> => {
+  console.log("querying for ", limit, "items");
   const apiResponse = await axios.post(
     "https://bandcamp.com/api/fancollection/1/collection_items",
     {
