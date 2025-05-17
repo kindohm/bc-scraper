@@ -1,4 +1,0 @@
-yarn run v1.22.21
-$ yarn ts-node ./src/index.ts
-$ /Users/kindohm/code/bc-scraper/node_modules/.bin/ts-node ./src/index.ts
-info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
