@@ -27,6 +27,7 @@ const main = async () => {
           type: "number",
           default: 100,
         },
+        startDay: { type: "number", default: 0 },
         days: { type: "number", default: 30 },
         downloadDir: {
           type: "string",
@@ -43,9 +44,11 @@ const main = async () => {
       })
       .parse();
 
-    const oldestDate = add(new Date(), { days: -argv.days });
+    const oldestDate = add(new Date(), { days: -argv.startDay - argv.days });
+    const newestDate = add(new Date(), { days: -argv.startDay });
 
-    console.log("args", argv);
+    // console.log("args", argv);
+    console.log("newest date", newestDate);
     console.log("oldest date", oldestDate);
 
     console.log(
@@ -68,7 +71,7 @@ const main = async () => {
     );
 
     const recentItems = collectionItems.items.filter((item) => {
-      return item.realDate >= oldestDate;
+      return item.realDate >= oldestDate && item.realDate <= newestDate;
     });
 
     const filteredCollectionItems = { ...collectionItems, items: recentItems };
